@@ -6,7 +6,7 @@
 ![VideoVault Screenshot](Screenshot%202026-03-22%20140859.png)
 
 ## ✅ Supported Platforms
-YouTube · TikTok · Instagram · Twitter/X · Facebook · Reddit · Twitch · Vimeo + 1000s more
+YouTube · TikTok · Instagram · Twitter/X · Facebook · Reddit · Twitch · Vimeo + other sites
 
 ## ⚡ Features
 - Auto-downloads yt-dlp + ffmpeg on first launch (no manual setup!)
