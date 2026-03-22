@@ -3,7 +3,7 @@
 > Social Media Video Downloader — Windows Desktop App
 
 ## 📸 Preview
-
+![VideoVault Screenshot](Screenshot%202026-03-22%20140859.png)
 
 ## ✅ Supported Platforms
 YouTube · TikTok · Instagram · Twitter/X · Facebook · Reddit · Twitch · Vimeo + 1000s more
